@@ -1,0 +1,21 @@
+!! I'm learning as I go, I'm not an expert or have someone to guide me !!
+
+So far within the first couple of definitions, postulates and propositions, I don't see where a coordinate system is discussed. 
+
+We have data structure for points, but Euclid makes no mention of coordinates. Points don't possess inner coordinates. They are just there. 
+
+But when you think about what the greeks were doing, using a compass and straightedge to position points and other geometries, there's an implied coordinate system. there's a space the greeks were working within, that that the points existed in. the points were the atoms of this space, but they indeed had relative position in the geometry. 
+
+So with each point in my C++ model of EG, the point will represent a spatial point, and therefore have coords associated with it. I imaigne I could have a list of points, and a separate data structue
+
+
+world = { at (3,5) let there be a point a, at (9, 22) let there be a point b. 
+create a line
+between a and b.
+
+2Dpoint : point
+{
+  x, y
+} a(3,5), b(9,2)...
+
+So a point realy is nothing, but it can be placed in a 2d plane and represent the smallest bit possible. So a spatial point, is a point with additional information, i.e. the spatial information.

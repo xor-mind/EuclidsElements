@@ -1,0 +1,2 @@
+C:\Users\abomb\source\repos\EuclidsElements\Debug\EuclidsElements.exe
+C:\Users\abomb\source\repos\EuclidsElements\Debug\EuclidsElements.pdb
